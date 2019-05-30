@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="this_is_my_first_app">This is my first app</string>
+    <string name="this_is_my_first_app_no_idea_what_i_m_doing_but_lets_test">This is my forst app no idea what I\'m doing but lets test</string>
+    <string name="this_is_my_first_app_no_idea_what_i_m_doing">This is my first app, no idea what I\'m doing</string>
+    <string name="but_let_s_test">But let\'s test</string>
+    <string name="test">Test</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="textView">TextView</string>
+    <string name="button_label_count">Count</string>
+    <string name="button_label_counting">Counting</string>
+    <string name="count_initial_value">0</string>
+    <string name="count_message">Hello Count!</string>
+</resources>
